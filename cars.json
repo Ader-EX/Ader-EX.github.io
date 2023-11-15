@@ -1,0 +1,82 @@
+[
+  {
+    "brand": "Bugatti",
+    "model": "Chiron",
+    "topSpeed": 261,
+    "horsepower": 1500,
+    "price": 3000000,
+    "image": "https://i.postimg.cc/nzKL4cht/Bugatti-Chiron.jpg"
+  },
+  {
+    "brand": "Koenigsegg",
+    "model": "Regera",
+    "topSpeed": 255,
+    "horsepower": 1500,
+    "price": 2000000,
+    "image": "https://i.postimg.cc/Kvty4sjd/regera.png"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Centenario",
+    "topSpeed": 217,
+    "horsepower": 770,
+    "price": 1900000,
+    "image": "https://i.postimg.cc/MGBZw0ND/centenario.jpg"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "LaFerrari",
+    "topSpeed": 217,
+    "horsepower": 950,
+    "price": 1500000,
+    "image": "https://i.postimg.cc/xj5f91xW/valkryie.jpg"
+  },
+  {
+    "brand": "McLaren",
+    "model": "P1",
+    "topSpeed": 217,
+    "horsepower": 903,
+    "price": 1350000,
+    "image": "https://i.postimg.cc/W13tBksW/pOne.jpg"
+  },
+  {
+    "brand": "Aston Martin",
+    "model": "Valkyrie",
+    "topSpeed": 250,
+    "horsepower": 1160,
+    "price": 3000000,
+    "image": "https://i.postimg.cc/xj5f91xW/valkryie.jpg"
+  },
+  {
+    "brand": "Porsche",
+    "model": "918 Spyder",
+    "topSpeed": 214,
+    "horsepower": 887,
+    "price": 845000,
+    "image": "https://i.postimg.cc/K8Rvqh5C/spyder.jpg"
+  },
+  {
+    "brand": "Rimac",
+    "model": "C_Two",
+    "topSpeed": 258,
+    "horsepower": 1914,
+    "price": 2000000,
+    "image": "https://i.postimg.cc/sDG5W5RF/ctwo.jpg"
+  },
+  {
+    "brand": "Lotus",
+    "model": "Evija",
+    "topSpeed": 200,
+    "horsepower": 2000,
+    "price": 2000000,
+    "image": "https://i.postimg.cc/2jMZC3L0/evija.jpg"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Roadster",
+    "topSpeed": 250,
+    "horsepower": 1000,
+    "price": 200000,
+    "image": "https://i.postimg.cc/Twxt7CfW/roadster.jpg"
+  }
+]
